@@ -23,7 +23,7 @@ public class Lesson8Tests {
                 .shouldBe(Condition.visible);
     }
 
-
+//test
     @CsvSource(value = {
             "PS5| Игровая консоль PlayStation 5 [825 ГБ SSD, геймпад - 1 шт, Bluetooth, Wi-Fi, белый]",
             "Xbox 360| Ключ активации Grand Theft Auto IV (Xbox ONE, Xbox 360) " +
